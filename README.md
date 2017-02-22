@@ -229,3 +229,17 @@ DBMS: MySQL
 [custmr]:/debec/src/main/webapp/WEB-INF/views/custmr
 [end]:/debec/src/main/webapp/WEB-INF/views/end
 [login]:/debec/src/main/webapp/WEB-INF/views/login
+
+####관리자 & 고객 애플리케이션
+* [로그인 및 회원가입][login]
+* [메인][main]
+* [마켓][market2]
+* [레시피][recipe]
+* [담소방][community]
+* [마이페이지][mypage]
+[login]:/debecApp/assets/www/view/LoginFrame.html
+[main]:/debecApp/assets/www/view/Main.html
+[market2]:/debecApp/assets/www/view/MarketCusDebecChoiceMain.html
+[recipe]:/debecApp/assets/www/view/RecpList.html
+[community]:/debecApp/assets/www/view/CommunityList.html
+[mypage]:/debecApp/assets/www/view/MyPageEmpMain.html
