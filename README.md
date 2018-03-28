@@ -1,9 +1,9 @@
-대신 장봐주는 남자
-=
+# 대신 장봐주는 남자
 
-# 1. 공모전 소개
 
-#### 2016 SW 동아리 재능기부 챌린지
+## 1. 공모전 소개
+
+### 2016 SW 동아리 재능기부 챌린지
 ```
 1) 소속 : 계명대학교 경영정보학과 소프트웨어 개발 동아리 '수은불망' 내의 팀 '마에스트로'
 2) 목표 : 지역의 소상공인과 협력하여 SW 개발 동아리의 재능기부 실천 및 실력 향상, 동시에 소상공인에게 도움이 되는 SW를 개발
@@ -14,7 +14,7 @@
 7) 주요실적 : 기획, 분석 및 설계, 웹 상품관리의 진열관리, 푸시알림 관리 및 애플리케이션 메인 개발 담당
 ```
 
-2. 개발환경
+## 2. 개발환경
 
 ```
 언어: Java
@@ -24,7 +24,7 @@ DBMS: MySQL
 버전관리: SVN
 기타: HTML5, CSS3, Bootstrap, JSP, MyBatis, JavaScript, JQuery, Ajax, Android, Cordova
 ```
-#### Spring Framework 3.2.4
+### Spring Framework 3.2.4
 ```
 <dependencies>
 	<!-- gcm-server -->
@@ -214,9 +214,9 @@ DBMS: MySQL
 	</dependency>        
 </dependencies>
 ```
-3. 주요기능
--
-#### 관리자 웹
+## 3. 주요기능
+
+### 관리자 웹
 * [매장 관리][market]
 * [상품 관리][prodct]
 * [거래 관리][deal]
@@ -230,7 +230,7 @@ DBMS: MySQL
 [end]:/debec/src/main/webapp/WEB-INF/views/end
 [login]:/debec/src/main/webapp/WEB-INF/views/login
 
-#### 관리자 & 고객 애플리케이션
+### 관리자 & 고객 애플리케이션
 * [로그인 및 회원가입][login]
 * [메인][main]
 * [마켓][market2]
