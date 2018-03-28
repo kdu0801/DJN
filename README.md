@@ -217,13 +217,12 @@ DBMS: MySQL
 ## 3. 주요기능
 
 ### 관리자 웹
-* [매장 관리][market]
+* [매장 관리](/debec/src/main/webapp/WEB-INF/views/market)
 * [상품 관리][prodct]
 * [거래 관리][deal]
 * [고객 관리][custmr]
 * [마감 관리][end]
 * [개인 정보 관리][login]
-[market]:/debec/src/main/webapp/WEB-INF/views/market
 [prodct]:/debec/src/main/webapp/WEB-INF/views/prodct
 [deal]:/debec/src/main/webapp/WEB-INF/views/deal
 [custmr]:/debec/src/main/webapp/WEB-INF/views/custmr
