@@ -218,27 +218,16 @@ DBMS: MySQL
 
 ### 관리자 웹
 * [매장 관리](/debec/src/main/webapp/WEB-INF/views/market)
-* [상품 관리][prodct]
-* [거래 관리][deal]
-* [고객 관리][custmr]
-* [마감 관리][end]
-* [개인 정보 관리][login]
-[prodct]:/debec/src/main/webapp/WEB-INF/views/prodct
-[deal]:/debec/src/main/webapp/WEB-INF/views/deal
-[custmr]:/debec/src/main/webapp/WEB-INF/views/custmr
-[end]:/debec/src/main/webapp/WEB-INF/views/end
-[login]:/debec/src/main/webapp/WEB-INF/views/login
+* [상품 관리](/debec/src/main/webapp/WEB-INF/views/prodct)
+* [거래 관리](/debec/src/main/webapp/WEB-INF/views/deal)
+* [고객 관리](/debec/src/main/webapp/WEB-INF/views/custmr)
+* [마감 관리](/debec/src/main/webapp/WEB-INF/views/end)
+* [개인 정보 관리](/debec/src/main/webapp/WEB-INF/views/login)
 
 ### 관리자 & 고객 애플리케이션
-* [로그인 및 회원가입][login]
-* [메인][main]
-* [마켓][market2]
-* [레시피][recipe]
-* [담소방][community]
-* [마이페이지][mypage]
-[login]:/debecApp/assets/www/view/LoginFrame.html
-[main]:/debecApp/assets/www/view/Main.html
-[market2]:/debecApp/assets/www/view/MarketCusDebecChoiceMain.html
-[recipe]:/debecApp/assets/www/view/RecpList.html
-[community]:/debecApp/assets/www/view/CommunityList.html
-[mypage]:/debecApp/assets/www/view/MyPageEmpMain.html
+* [로그인 및 회원가입](/debecApp/assets/www/view/LoginFrame.html)
+* [메인](/debecApp/assets/www/view/Main.html)
+* [마켓](/debecApp/assets/www/view/MarketCusDebecChoiceMain.html)
+* [레시피](/debecApp/assets/www/view/RecpList.html)
+* [담소방](/debecApp/assets/www/view/CommunityList.html)
+* [마이페이지](/debecApp/assets/www/view/MyPageEmpMain.html)
