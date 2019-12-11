@@ -79,7 +79,7 @@ $(document).ready(function() {
 	
 	$("#selProdctTempImg").click(function(){
 		var popUrl = "/selProdctImgExpnd.do";
-		var popOption = "width=605, height=605,  toolbar=no, location=no, directories=no, scrollbars=no, resizable=no, ";    //공유 팝업창 옵션(optoin)
+		var popOption = "width=605, height=605,  toolbar=no, location=no, directories=no, scrollbars=no, resizable=no, ";    //공유 팝업창 옵션(option)
 		imgExpandPop = window.open(popUrl,"selProdctImg",popOption);
 
 	});
@@ -91,7 +91,7 @@ function imgLoad()
 }
 function imgExpandPopUp() {
 	var popUrl = "/selProdctImgExpnd.do";
-	var popOption = "width=600, height=600,  toolbar=no, location=no, directories=no, scrollbars=no, resizable=no, ";    //공유 팝업창 옵션(optoin)
+	var popOption = "width=600, height=600,  toolbar=no, location=no, directories=no, scrollbars=no, resizable=no, ";    //공유 팝업창 옵션(option)
 	imgExpandPop = window.open(popUrl,"selProdctImg",popOption);
 	imgExpandPop.document.all.selProdctImgs.src = selProdctImg[selProdctImgNum];
 };
